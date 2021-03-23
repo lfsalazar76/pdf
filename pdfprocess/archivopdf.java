@@ -4,7 +4,8 @@ package pdfprocess ;
 @description manejador de los atributos de un archivo
 */
 
-public class archivopdf{
+public class archivopdf
+{
 
     private String name ;
 	
